@@ -1,7 +1,7 @@
 ---
 home: true
 actionText: Get Started →
-actionLink: /guide/basic
+actionLink: /basic
 features:
 - title: Lightweight
   details: wrote in pure js

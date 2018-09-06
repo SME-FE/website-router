@@ -1,7 +1,7 @@
 ---
 home: true
 actionText: Get Started →
-actionLink: /zh/guide/basic
+actionLink: /zh/basic
 features:
 - title: 轻量
   details: 不依赖任何框架，使用原生JS编写
